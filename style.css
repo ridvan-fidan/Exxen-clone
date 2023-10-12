@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+
+.containers{
+ padding-inline: 15%;
+}
+input::placeholder{
+    color: black !important;
+    font-weight: bold;
+}
